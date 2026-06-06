@@ -1,6 +1,3 @@
-
-
-````markdown
 # 📊 Machine Learning & Data Mining Essentials
 
 <div align="center">
@@ -235,5 +232,3 @@ Your support helps encourage continuous learning, research, and open-source cont
 ⭐ Thank You for Visiting This Repository ⭐
 
 </div>
-````
-
