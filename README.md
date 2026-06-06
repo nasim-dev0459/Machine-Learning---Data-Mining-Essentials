@@ -199,7 +199,7 @@ Planned improvements include:
 
 ## 👨‍💻 Author
 
-### Md. Nasim Hawlader
+### Md. Nasim Howladar
 
 Bachelor of Science (B.Sc.) in Computer Science & Engineering
 
